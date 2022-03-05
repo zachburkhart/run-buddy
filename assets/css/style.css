@@ -238,7 +238,7 @@ section {
     height: 400px;
 }
 
-.contact-info div {
+.contact-info {
     width: 410px;
     display: inline-block;
     vertical-align: top;
